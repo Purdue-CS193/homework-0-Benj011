@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
-
 # Benji Emini First CS 193 homework
 
 - Chill Class
 - Cool teachers
+- helps with cs 180
 
+
+
+
+
+
+
+# guide under this
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
